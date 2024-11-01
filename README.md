@@ -22,6 +22,7 @@ No. | Exercises | /ᐠ｡ꞈ｡ᐟ\ |
 ## 💻 Technology
 
 + [Python 3](http://www.python.org/) - Main programming language used, done in Jupyter Notebook.
++ [MySQL Server](https://dev.mysql.com/) - the most popular Open Source SQL database management system, is developed, distributed, and supported by Oracle Corporation.
 + []()
 
 ##
